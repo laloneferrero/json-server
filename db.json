@@ -1,0 +1,70 @@
+{
+  "getAddress": [
+    {
+      "id": 1001,
+      "icon": "home-circle",
+      "street": "Calle verdin, quinta #4",
+      "town": "Los palos grandes, chacao.",
+      "location": "Caracas Venezuela",
+      "zip_code": "50120",
+      "state_name": "Estado Miranda",
+      "country_name": "Venezuela"
+    },
+    {
+      "id": 1002,
+      "icon": "office-building",
+      "street": "Calle verdin, quinta #4",
+      "town": "Los palos grandes, chacao.",
+      "location": "Caracas Venezuela",
+      "zip_code": "50120",
+      "state_name": "Estado Miranda",
+      "country_name": "Venezuela"
+    }
+  ],
+  "listProductsState": [
+    {
+      "id": 1,
+      "name": "Pollo a la plancha",
+      "description": "Pollo blanco de pradera Veracruzana",
+      "price": 190,
+      "weight": "1300 gr",
+      "image": "./../../img/pollo1.jpg",
+      "checked": false
+    },
+    {
+      "id": 2,
+      "name": "Pollo frito",
+      "description": "Pollo blanco de pradera Veracruzana",
+      "price": 390,
+      "weight": "1000 gr",
+      "image": "./../../img/pollo2.jpeg",
+      "checked": false
+    },
+    {
+      "id": 3,
+      "name": "Pollo adobado en salsa",
+      "description": "Pollo blanco de pradera Veracruzana",
+      "price": 430,
+      "weight": "1500 gr",
+      "image": "./../../img/pollo3.jpeg",
+      "checked": false
+    },
+    {
+      "id": 4,
+      "name": "Pollo Pilgrims pride",
+      "description": "Pollo blanco de pradera Veracruzana",
+      "price": 300,
+      "weight": "1200 gr",
+      "image": "./../../img/pollo4.jpeg",
+      "checked": false
+    },
+    {
+      "name": "Pollo a la mexicana.",
+      "description": "Pollo blanco de pradera Veracruzana",
+      "price": 250,
+      "weight": "1100 gr",
+      "image": "./../../img/pollo5.jpg",
+      "checked": false
+    }
+  ]
+}

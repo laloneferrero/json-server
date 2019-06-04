@@ -1,0 +1,19 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "json server for CarritoW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.14.2"
+  },
+  "author": "laloneferrero",
+  "license": "ISC",
+  "engines": {
+    "node": ">=0.10.22",
+    "npm": ">=1.3.14"
+  }
+}
